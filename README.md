@@ -77,5 +77,6 @@ c) Add the files from the folder ("AddFiles/AddFilesWebSocket") to your sails pr
 
 To complete, install package.json modules :
 ```
-npm install 
+npm install
+sails lift
 ```
