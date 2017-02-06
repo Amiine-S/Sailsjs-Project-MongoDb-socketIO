@@ -14,7 +14,7 @@ npm install sails -g
 ```
 ###II) Create a basic project (Login/signup/logout/Page)
 
-a) Start in the folder where you want to create your sails project (For exemple we designate this project "tuto") and run :
+a) Start in folder where you want to create your sails project (For exemple we designate this project "tuto") and run :
 ```
 sails new tuto
 cd tuto
