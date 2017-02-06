@@ -4,9 +4,9 @@
 
 ###I) Preliminary
 
-Install Nodejs : (https://nodejs.org/en/download/package-manager/)
+Install Nodejs (v6.x) : (https://nodejs.org/en/download/package-manager/)
 
-Install MongoDb : (https://docs.mongodb.com/manual/installation)
+Install MongoDb (v3.4)  : (https://docs.mongodb.com/manual/installation)
 
 Install SailsJs (v0.12) :
 ```
