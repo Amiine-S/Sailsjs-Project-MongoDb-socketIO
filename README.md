@@ -19,7 +19,7 @@ a) Start in folder where you want to create your sails project (For exemple we d
 sails new tuto
 cd tuto
 ```
-b) Add the files from the folder ("AddFiles/AddFilesProjectBasic") to your sails project.
+b) Copy files from the folder ("AddFiles/AddFilesProjectBasic") to your sails project.
  
 - *package.json :* **Add dependencies**
 
@@ -50,7 +50,7 @@ a) Install MongoDB adapter :
 npm install sails-mongo
 ```
 
-b) Add the files from the folder ("AddFiles/AddFilesMongoDB") to your sails project:
+b) Copy files from the folder ("AddFiles/AddFilesMongoDB") to your sails project:
 
 - *config/models :* **Name of Database**
 
@@ -63,7 +63,7 @@ Install socket.io-client & sails.io.js adapter :
 npm install socket.io-client --save
 npm install sails.io.js --save
 ```
-c) Add the files from the folder ("AddFiles/AddFilesWebSocket") to your sails project:
+c) Copy files from the folder ("AddFiles/AddFilesWebSocket") to your sails project:
 
 - *api/controller/HomeController.js :* **Function poke**
 
