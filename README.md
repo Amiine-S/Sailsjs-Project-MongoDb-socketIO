@@ -8,7 +8,7 @@ Install Nodejs : (https://nodejs.org/en/download/package-manager/)
 
 Install MongoDb : (https://docs.mongodb.com/manual/installation)
 
-Install SailsJs:
+Install SailsJs (v0.12) :
 ```
 npm install sails -g
 ```
