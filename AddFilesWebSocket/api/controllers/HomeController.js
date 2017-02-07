@@ -28,7 +28,7 @@ module.exports = {
         
         sails.log(req.session);
         
-        var message = 'You poke me baby <3';
+        var message = 'You poked me baby <3';
 
         sails.log('The user poke server');
         
