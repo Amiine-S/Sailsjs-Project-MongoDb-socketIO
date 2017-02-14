@@ -30,7 +30,7 @@ module.exports = {
         
         var message = 'You poked me baby <3';
 
-        sails.log('The user poke server');
+        sails.log('The user poked server');
         
         //sails.log(req.param('name'));
         return res.json(message);
